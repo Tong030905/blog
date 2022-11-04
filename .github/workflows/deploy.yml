@@ -23,7 +23,6 @@ jobs:
       - name: Install Dependencies
         run: |
             yarn install
-            sudo apt install rsync
       - name: Fix File Modify Date
         run: |
           git ls-files | while read filepath; do touch -d "$(git log -1 --format='@%ct' $filepath)" "$filepath" && echo "Fixed: $filepath"; done
