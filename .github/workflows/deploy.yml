@@ -31,10 +31,13 @@ jobs:
         run: |
           export TZ='Asia/Shanghai'
           yarn build
-      - name: Install SSH Key
-        uses: shimataro/ssh-key-action@v2
-        with:
-            key: ${{ secrets.HEXO_DEPLOY_KEY }}
-            known_hosts: 'blog.zhullyb.top'
+      - name: Setup Deploy Private Key
+        env:
+          HEXO_DEPLOY_KEY: ${{ secrets.HEXO_DEPLOY_KEY }}
+        run: |
+          mkdir -p ~/.ssh/
+          echo "$HEXO_DEPLOY_KEY" > ~/.ssh/id_rsa
+          chmod 600 ~/.ssh/id_rsa
+          ssh-keyscan blog.zhullyb.top >> ~/.ssh/known_hosts
       - name: Deploy to VPS
         run: yarn deploy
