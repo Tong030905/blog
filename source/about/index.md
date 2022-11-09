@@ -1,31 +1,72 @@
 ---
-title: Hello, it's zhullyb here.
+title: Hello, it's Yale Lin here.
 layout: about
 date: 2021-05-01 23:53:19
 ---
 
-## About Me
+## About Me 
 
-咱是一只大一的大本钟，日常全靠摆，就读于浙江工地大专。
+目前就读于某工地的一只萌新   正在努力学习技术之中....
 
-~~Fedora 用户~~已经叛变到 Archlinux 了，也在维护某些 AUR 和 archlinuxcn 的包，dipper 机型的 crDroid Official Maintainer
+~~尝试打破次元壁ing~~ 
 
-~~周更(月更(~~年更博主
+中二病晚期の少年....    社恐....  
+
+
+
+## About My View
+
+博客似乎好像逐渐退出时代的舞台
+
+但在这个声音嘈杂的时代   其实很难找到属于自己的世外桃源
+
+所以我想在这里分享自己    同时希望能被小部分人看见~~
+
+感谢每一位观众！！
+
+
+
+## About My Hobby
+
+<img src="https://s2.loli.net/2022/11/09/E4z7bMyK9hnPw1g.webp" style="zoom:15%;" />
+
+
 
 ## About This Blog
 
-这个博客主要就是用于记录一些技术性的原创内容，初衷是为了帮助遇到相同问题的用户们节约些自己的时间。
+初衷是为了记录自己在**程序**中遇到的问题***（记错 总结 分析...***   
 
-因此这个域名我将尽我可能续费下去，而如果后期服务器费用无法承担的话我也做好诶迁移到 serverless 的准备。
+同时记录自己*跌跌撞撞、跌跌撞撞*走下的一路 
 
-## My Websites
+~~再次努力尝试打破次元壁ing~~
 
-博客(本站): [https://zhul.in](https://zhul.in)
+也希望能在这里和大家分享自己的日常和情绪~~
 
-反代服务: [https://r.zhullyb.top](https://r.zhullyb.top)
+**以上！！**
+
+
+
+## My Website
+
+博客(本站): [https://yalel.in](https://yalel.in)
+
+
 
 ## Contact Me
 
-回复速度最快的是邮件：zhullyb@outlook.com
+email:1463921624@qq.com
 
-当然，如果你喜欢即时通信软件，你也可以在 telegram@zhullyb 找到我，长时间没有回复的话可能是我不在线，可以发个 email 提醒我看一下。
+
+
+## Thanks
+
+特别鸣谢：
+
+**熊**  
+
+**竹林里有冰**   
+
+
+
+​           
+
